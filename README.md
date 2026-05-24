@@ -41,3 +41,4 @@ streamlit run app.py
 ```
 
 Pendiente nernstiana: **59.16 mV/pH** a 25 °C para especie monovalente (H⁺).
+# cop
